@@ -1,0 +1,3 @@
+[
+  { "symbol": "AAPL", "cond": "below", "price": 1000 }
+]
