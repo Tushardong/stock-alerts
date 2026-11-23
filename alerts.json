@@ -1,5 +1,19 @@
 [
-  { "symbol": "RELIANCE.NS", "cond": "above", "price": 1500 },
-  { "symbol": "TCS.NS", "cond": "below", "price": 3000 },
-  { "symbol": "AAPL", "cond": "above", "price": 250 }
+  {
+    "symbol": "RELIANCE.NS",
+    "cond": "above",
+    "price": 1500
+  },
+  {
+    "symbol": "TCS.NS",
+    "cond": "below",
+    "price": 3000,
+    "done": true
+  },
+  {
+    "symbol": "AAPL",
+    "cond": "above",
+    "price": 250,
+    "done": true
+  }
 ]
